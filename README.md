@@ -1,4 +1,4 @@
-# orja
+# orja.in
 Overview
 Orja Solution is a revolutionary solar-based website designed to empower users to make informed decisions about adopting solar panels for their energy needs. Our platform offers a comprehensive solution that includes a solar meter and a streamlined process for estimating potential cost savings.
 
