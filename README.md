@@ -30,7 +30,7 @@ Solar Meter is a mobile app designed to calculate the amount of solar energy gen
 
 
 ## Getting Started
-Visit the [Orja Solution Website](https://divyanshbhai.github.io/Orja-Solution/).
+[![Orja Solution Website](https://www.greenyourbills.com/Registration/WebLink.png)](https://divyanshbhai.github.io/Orja-Solution/).
 
 ### Calculate Savings
 
