@@ -14,6 +14,21 @@ Welcome to Orja Solution, a web application designed to help users calculate pot
 - **Preventive Maintenance:** Schedule preventive maintenance to avoid breakdowns and ensure optimal performance.
 - **Professional Installation:** Our skilled team provides professional installation services to set up your solar system correctly.
 
+## Mobile App - Solar Meter
+
+Solar Meter is a mobile app designed to calculate the amount of solar energy generated in real-time based on the current light conditions using your mobile device's light sensor.
+
+### Key Features:
+
+- **Real-time Solar Energy Measurement:** Get instant feedback on the solar energy produced by your solar plant.
+- **Light Sensor Integration:** Utilizes your mobile device's light sensor for accurate measurements.
+- **User-Friendly Interface:** Easy-to-use interface for a seamless experience.
+
+### Download Solar Meter:
+
+[![Download on Google Play](https://gaanap.com/assets/images/googlestore.png)](https://play.google.com/store/apps/details?id=solarradiationmeter.orjasolution.app)
+
+
 ## Getting Started
 Visit the [Orja Solution Website](https://divyanshbhai.github.io/Orja-Solution/).
 
