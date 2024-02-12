@@ -1,5 +1,5 @@
 <img src="https://divyanshbhai.github.io/Orja-Solution/orjalogo.png" width="200px">
-[Orja Solution Website](https://divyanshbhai.github.io/Orja-Solution/).
+https://divyanshbhai.github.io/Orja-Solution/
 
 # Orja Solution - Clean Energy Calculator and Solar Services
 
