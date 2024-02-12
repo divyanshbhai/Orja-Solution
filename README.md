@@ -3,7 +3,7 @@ https://divyanshbhai.github.io/Orja-Solution/
 
 # Orja Solution - Clean Energy Calculator and Solar Services
 
-Welcome to Orja Solution, a web application designed to help users calculate potential savings through solar energy and facilitate inquiries for solar system installation services.
+Welcome to Orja Solution, a comprehensive solution that includes a web application for calculating potential savings through solar energy and facilitating inquiries for solar system installation services. Additionally, we have a mobile app called Solar Meter that allows users to measure solar energy production in real-time using their mobile device's light sensor.
 
 ## Features
 
